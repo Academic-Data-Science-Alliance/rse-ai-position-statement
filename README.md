@@ -7,7 +7,7 @@ This position statement was developed based on the input of RSEs at these events
 
 If you are interested in <strong>reviewing the position statement and signing it</strong> once it is finalized, you're in the right place! 
 
-## [Review the Draft Position Statement here](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/issues)
+## [Review the Draft Position Statement here](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-PositionStatement.md)
 
 ### Next Steps
 
