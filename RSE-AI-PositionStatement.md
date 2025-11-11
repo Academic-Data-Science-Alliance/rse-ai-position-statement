@@ -1,7 +1,7 @@
 ## Position Statement on Generative AI in the RSE Workplace
 
 ### Preamble
-Over a four month period, we engaged with over 100 research software engineers at a number of community events (SciPy, RSECon 25, US-RSE 2025, Supercomputing 2025) to better understand the impacts of Generative AI (GenAI) on the work of Research Software Engineers (RSEs). Through these conversations we have seen an interest from the RSE community to make a public statement about how GenAI is impacting RSEs and the vision that RSEs have for their profession in this new technological landscape. 
+Over a four month period, we engaged with over 100 research software engineers at a number of community events (SciPy, RSECon25, USRSE'25, SC5) to better understand the impacts of Generative AI (GenAI) on the work of Research Software Engineers (RSEs). Through these conversations we have seen an interest from the RSE community to make a public statement about how GenAI is impacting RSEs and the vision that RSEs have for their profession in this new technological landscape. 
 
 Research software engineering – building and maintaining software to enhance research – is an indispensable part of modern research. Since computing entered the research toolkit, RSEs have been integral to research across disciplines through the software and infrastructure they build and maintain.
 
