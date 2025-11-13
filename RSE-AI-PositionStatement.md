@@ -14,7 +14,7 @@ With the recent rapid emergence of GenAI, the conversation around software engin
 Sustainable research software rises from collaboration. RSEs are the linchpin: they bridge disciplines, turn research needs into working systems, and mentor colleagues in sound computational practices. These human roles – translation, coordination, and trust-building – are not functions GenAI can adequately replace.
 
 #### GenAI is a tool, not a substitute for human judgement 
-Like many tools RSEs use in their work, GenAI can be powerful if applied responsibly and appropriately. Current experience with GenAI suggests that these technologies are helpful in an assistive capacity, but if applied to complex, multifaceted problems, are often found lacking. RSEs and researchers should own technical decisions and be trusted to select and integrate technologies that best advance the organization’s mission.
+Like many tools RSEs use in their work, GenAI can be powerful if applied responsibly and appropriately. Current experience with GenAI suggests that these technologies are helpful in an assistive capacity, but they are often found lacking when applied to complex, multifaceted problems. RSEs and researchers should own technical decisions and be trusted to select and integrate technologies that best advance the organization’s mission.
 
 #### Sustainability and transparency matter more than ever
 Research is an iterative process that relies not only on findings published across generations, but also on the methods and infrastructure that produce them. 
