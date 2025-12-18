@@ -5,14 +5,11 @@ Over a four-month period in 2025, more than 200 RSEs gathered to discuss the sta
 
 This position statement was developed based on the input collected from RSEs at these events and compiled by event organizers at the Alliance for Data Science and AI (ADSA), the US Research Software Engineer Association (US-RSE), UK Centre for Ecology & Hydrology (UKCEH), Institute of Computing for Climate Science (ICCS), University College London (UCL), and generously supported by Schmidt Sciences. Subsequent review of the draft position statement by RSE community members further strengthened the statement. 
 
-If you are interested in <strong>signing [the finalized position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)</strong>, you're in the right place! 
+If you are interested in __signing [the finalized position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)__, you're in the right place! 
 
 ## Sign the position statement
 
-### Next Steps
-
-<ol>
-  <li><strong>Review</strong> [the position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)</li>
-  <li><strong>Add your signature via a [pull request](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/pulls)</strong></li>
-  <li>The signed position statement will be published <strong>by the end of January</strong> and distributed broadly</li>
+1. __Review__ [the position statement](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/blob/main/RSE-AI-Final_Statement.md)
+2. __Add your signature via a [pull request](https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement/pulls)__
+3. The signed position statement will be published <strong>by the end of January</strong> and distributed broadly
 </ol>
