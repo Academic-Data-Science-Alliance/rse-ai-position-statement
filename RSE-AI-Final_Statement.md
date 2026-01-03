@@ -58,3 +58,5 @@ Daniel Morillo-Cuadrado, Universidad Nacional de Educación a Distancia (Spain)
 
 Sandra Gesing, US-RSE; San Diego Supercomputer Center
 
+William Cipolli, Colgate University
+
